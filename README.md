@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://pbs.twimg.com/community_banner_img/1513986958229446671/wiKHoYSR?format=jpg&name=small" alt="MasterHead" />
 </p> 
 
@@ -10,7 +10,6 @@
 
 ---
 <img align="right" alt="coding" width="400" src="https://imgur.com/LDSvEL5.png">
-
 
 ### ⏳ Currently Working On  
 - MIMO Communication Systems  
@@ -38,14 +37,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
-  <p align="left">
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  
-    
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+    </a>
 </p>
 
+---
+
+### 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chandan_sh" alt="LeetCode Stats" />
 </p>
 
 ---
